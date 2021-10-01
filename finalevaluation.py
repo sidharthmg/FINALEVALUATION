@@ -1,4 +1,4 @@
-from random import randrange
+
 
 class Pet:
     def __init__(self, species, name):
